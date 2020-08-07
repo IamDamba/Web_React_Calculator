@@ -1,2 +1,2 @@
 # Web_React_Calculator
-A Simple calculator with ReactJS
+It's the same app but i make some changement in components files.
