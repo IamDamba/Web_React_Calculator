@@ -1,0 +1,14 @@
+.result{
+    width: 100%;
+    display: grid;
+    background: white;
+    align-content: flex-end;
+}
+
+.result p{
+    font-family: 'Lato', 'sans-serif';
+    font-weight: bold;
+    font-size: 3em;
+    text-align: end;
+    margin: 20px;
+}
